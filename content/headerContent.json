@@ -1,0 +1,6 @@
+{
+  "pages": [
+    { "title": "Page2", "url": "/page-2" },
+    { "title": "Page3", "url": "/page-3" }
+  ]
+}
