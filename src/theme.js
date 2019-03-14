@@ -1,7 +1,7 @@
-import React from 'react'
+// Theme stylesheet
 
-const Theme = {
-  primary: 'red',
+const theme = {
+  primaryColor: 'red',
 }
 
-export default Theme
+export default theme
